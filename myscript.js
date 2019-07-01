@@ -5,4 +5,4 @@ var name, surname, color;
 var name = prompt("Inserisci il tuo nome");
 var surname = prompt("Inserisci il tuo cognome");
 var color = prompt("Dimmi il tuo colore preferito");
-alert(name + surname + color + 19);
+alert(name + surname + color + "19");
